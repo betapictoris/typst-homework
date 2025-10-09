@@ -41,7 +41,7 @@
     header: {
       set text(size: 8pt)
       grid(
-        columns: (1fr, 1fr, 1fr),
+        columns: (auto, 1fr, auto),
         rows: (auto, auto),
         align: (left, center, right),
         gutter: 6pt,

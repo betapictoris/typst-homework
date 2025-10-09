@@ -1,4 +1,4 @@
-#import "@preview/hand-in:1.0.0": assignment
+#import "@preview/hand-in:1.0.1": assignment
 
 #set text(font: "TeX Gyre Pagella", lang: "en", region: "au")
 #show math.equation: set text(font: "New Computer Modern Math")

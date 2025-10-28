@@ -67,7 +67,7 @@
     it.body + [.]
   }
 
-  set enum(indent: 5pt, numbering: "(a)")
+  set enum(indent: 5pt, numbering: "(aiA)")
   set list(indent: 5pt)
 
   show quote: set align(center)

@@ -17,7 +17,7 @@ This will create a new directory containing the file `main.typ` with a sample ca
 You can also use this template by copying the following to the top of a `.typ` file:
 
 ```typ
-#import "@preview/hand-in:1.0.1": assignment
+#import "@preview/hand-in:1.1.0": assignment
 
 // Configure the text font and language, for example, here.
 

@@ -32,6 +32,7 @@
 
   set page(
     paper: "a4",
+    columns: 2,
     margin: (
       top: 118pt,
       bottom: 96pt,

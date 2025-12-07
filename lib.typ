@@ -34,13 +34,12 @@
     paper: "a4",
     columns: 2,
     margin: (
-      top: (4em + 6pt + 14pt + 16pt),
+      top: (4em + 6pt + 14pt + 20pt),
       bottom: (4em + 8pt + 12pt),
       x: 5em,
     ),
     header-ascent: 14pt,
     header: {
-      set text(size: 8pt)
       grid(
         columns: (auto, 1fr, auto),
         rows: (auto, auto),

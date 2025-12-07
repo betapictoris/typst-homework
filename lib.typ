@@ -58,7 +58,6 @@
   )
 
   show heading.where(level: 1): it => {
-    pagebreak(weak: true)
     set text(size: 10pt, weight: "bold")
     it.body + [.]
   }

@@ -34,9 +34,9 @@
     paper: "a4",
     columns: 2,
     margin: (
-      top: 118pt,
-      bottom: 96pt,
-      x: 128pt,
+      top: (4em + 6pt + 14pt + 16pt),
+      bottom: (4em + 8pt + 12pt),
+      x: 5em,
     ),
     header-ascent: 14pt,
     header: {

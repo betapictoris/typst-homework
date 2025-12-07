@@ -1,16 +1,15 @@
 [package]
-name = "hand-in"
-version = "1.1.0"
+name = "homework"
+version = "1.0.0"
 entrypoint = "lib.typ"
-authors = ["mkorje <@mkorje>"]
+authors = ["Daniel Hall <@betapictoris>"]
 license = "MIT-0"
-description = "Clean and minimalist assignment."
-repository = "https://github.com/mkorje/typst-hand-in"
+description = "Clean and minimalist homework assignment."
+repository = "https://github.com/betapictoris/typst-homework"
 keywords = ["assignment", "homework", "problem set"]
 categories = ["report"]
-compiler = "0.13.1"
+compiler = "0.14.1"
 
 [template]
 path = "template"
 entrypoint = "main.typ"
-thumbnail = "thumbnail.png"
